@@ -1,5 +1,6 @@
 ## Hi, I'm Vincent 👋
 
+![Pac-Man contributions](https://raw.githubusercontent.com/vincent-yeet/vincent-yeet/output/pacman.svg)
 <!--
 **vincent-yeet/vincent-yeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
